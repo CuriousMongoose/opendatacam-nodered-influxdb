@@ -326,8 +326,27 @@
         "x": 220,
         "y": 220,
         "wires": [
-            []
+            [
+                "c808f222.8be288"
+            ]
         ]
+    },
+    {
+        "id": "c808f222.8be288",
+        "type": "debug",
+        "z": "1be6d032.e67d1",
+        "name": "",
+        "active": true,
+        "tosidebar": true,
+        "console": false,
+        "tostatus": false,
+        "complete": "true",
+        "targetType": "full",
+        "statusVal": "",
+        "statusType": "auto",
+        "x": 370,
+        "y": 280,
+        "wires": []
     },
     {
         "id": "55b0ee05.ab5a3",
